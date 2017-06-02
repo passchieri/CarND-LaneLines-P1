@@ -34,7 +34,7 @@ I have tried to improve also for the challenge video. I have extracted some scre
 ![Filtered and averaged lines](test_output/a.averaged.overlay.jpg)
 **Filtered and averaged lines**
 
-All other images of all intermediate steps can be found in [test_output]/(./test_output), while all output videos can be found in [test_videos_output](./test_videos_output)
+All other images of all intermediate steps can be found in [test_output](./test_output), while all output videos can be found in [test_videos_output](./test_videos_output)
 
 
 ### 2. Shortcomings with this pipeline
