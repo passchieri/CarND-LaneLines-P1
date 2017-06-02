@@ -8,7 +8,7 @@ Results of project **Finding Lane Lines on the Road**
 Student: **Igor Passchier, igor.passchier@tassinternational.com**
 
 Import results:
-* output images: [test_output]
-* output videos: [test_videos_output]
-* Reflection: [CarND-LaneLines-P1_report.md]
-* Jypiter notebook: [P1.ipynb]
+* output images: [test_output](./test_output/)
+* output videos: [test_videos_output](./test_videos_output/)
+* Reflection: [CarND-LaneLines-P1_report.md](./CarND-LaneLines-P1_report.md)
+* Jypiter notebook: [P1.ipynb](./P1.ipynb)
