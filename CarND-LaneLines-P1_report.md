@@ -28,10 +28,10 @@ In step 7, these identified left and right lines are averaged, where I use the l
 I have tried to improve also for the challenge video. I have extracted some screenshots to improve the pipeline more quickly, and afterwards processed the video itself.
 
 ![Hough detected and slope filtered lines](test_output/a.hough.jpg)
-![Hough detected and slope filtered lines](test_output/a.hough.overlay.jpg)
-**Hough detected and lsope filterd lines**
+![Hough detected and slope filtered lines](test_output/a.hough.overlay.jpg)  
+**Hough detected and slope filtered lines**
 
-![Filtered and averaged lines](test_output/a.averaged.overlay.jpg)
+![Filtered and averaged lines](test_output/a.averaged.overlay.jpg)  
 **Filtered and averaged lines**
 
 All other images of all intermediate steps can be found in [test_output](./test_output), while all output videos can be found in [test_videos_output](./test_videos_output)
